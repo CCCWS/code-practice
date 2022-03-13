@@ -16,4 +16,5 @@ for i in range(1, n) : #1 ~ n-1
 #     else :
 #         d[i+1] = d[i] dp테이블의 값이 누적됨 > 실패
 
-print (max(d)) #리스트 d중 가장 큰값을 출력
+print (max(d)) #리스트 d중 가장 큰값을
+print (d)
