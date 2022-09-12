@@ -16,5 +16,5 @@ const solution = (s) => {
   }
 };
 
-const s = "1111111";
+const s = "110010101001"
 console.log(solution(s));
